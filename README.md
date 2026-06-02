@@ -285,4 +285,4 @@ layer fixes it. Fix the foundation first.
 ---
 
 *Last updated: May 31, 2026*  
-*Anil [LastName] · [SMEAI.io](https://smeai.io)*
+*Anil Kandi*
